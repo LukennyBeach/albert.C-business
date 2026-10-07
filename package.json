@@ -1,0 +1,10 @@
+{
+  "name": "albertc-systems-site",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js",
+    "build": "rm -rf dist && mkdir -p dist && cp index.html styles.css script.js dist/ && cp -r public dist/public"
+  }
+}

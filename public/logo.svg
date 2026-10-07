@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="ALbert.C Systems">
+  <rect width="128" height="128" rx="18" fill="#11101B"/>
+  <g fill="#CFEF68">
+    <rect x="22" y="22" width="23" height="23"/>
+    <rect x="22" y="52" width="23" height="23"/>
+    <rect x="83" y="22" width="23" height="23"/>
+    <rect x="83" y="83" width="23" height="23"/>
+  </g>
+  <rect x="52" y="83" width="23" height="23" fill="#D3644F"/>
+  <path d="M45 33h38M45 64h15M75 64h8M64 75v8" fill="none" stroke="#CFEF68" stroke-width="4"/>
+</svg>
